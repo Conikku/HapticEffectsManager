@@ -22,7 +22,7 @@ A comprehensive, fully-documented module for managing haptic feedback in Roblox 
 
 1. Create a **ModuleScript** in `ReplicatedStorage` or `StarterPlayer.StarterPlayerScripts`
 2. Rename it to `HapticEffectsManager`
-3. Copy the contents of `HapticEffectsManager.lua` into it
+3. Copy the contents of `Init.lua` into it
 4. Require it from your LocalScripts
 
 ```lua
