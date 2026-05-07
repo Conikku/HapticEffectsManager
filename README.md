@@ -366,9 +366,9 @@ The `Position` and `Radius` properties work best on devices with multiple motors
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+This project is licensed under the MIT License.
 
-This means you are free to use, modify, and distribute this software, but any derivative works must also be licensed under GPL-3.0. For more details, see the [GNU GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+You are free to use, modify, distribute, and sublicense this software, including for commercial use, provided that the original copyright notice and license text are included in all copies or substantial portions of the software. For more details, see the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Credits
 
